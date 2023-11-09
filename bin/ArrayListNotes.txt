@@ -1,13 +1,10 @@
 1. Array is static and ArrayList is dynamic
-2. Array is indexed - use get method
+2. ArrayList is indexed - use get method
 3. Negative indexing is not allowed in Java
 4. If using any index where data is not stored it will give index out of bound exception
-5. The moment you create a new arraylist JVM creates a list of 10 inputs as a Virtual Capacity in ArrayList
-6. Virtual Capacity in ArrayList can be changed by passing the new capacity in constructor
-7. Generics In ArrayList
-8. Iterate ArrayList 
-9. List with other collection -- Arrays as list
-10. Methods: -
+5. Generic In ArrayList
+6. Iterate ArrayList 
+7. ArrayList Methods: -
 1. add - To assign value to list
 2. addAll - To merge two array list
 3. addAll - With Index - Merges two array from mentioned index
